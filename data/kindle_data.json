@@ -894,15 +894,16 @@
     "2025-11-09",
     "2025-11-10",
     "2025-11-11",
-    "2025-11-12"
+    "2025-11-12",
+    "2025-11-13"
   ],
   "current_daily_streak": {
-    "duration": 6,
+    "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-12T08:00:00.000Z",
+    "utcEndTime": "2025-11-13T08:00:00.000Z",
     "start": "2025-11-07T00:00:00.000Z",
-    "end": "2025-11-12T00:00:00.000Z",
-    "ttl": 1763005159
+    "end": "2025-11-13T00:00:00.000Z",
+    "ttl": 1763091428
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -914,10 +915,10 @@
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-12T08:00:00.000Z",
+    "utcEndTime": "2025-11-13T08:00:00.000Z",
     "start": "2025-11-02T00:00:00.000Z",
-    "end": "2025-11-12T00:00:00.000Z",
-    "ttl": 1763005159
+    "end": "2025-11-13T00:00:00.000Z",
+    "ttl": 1763091428
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -946,6 +947,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "F7B4BF32CE3C44188CEA1F3E40B6EA18",
+        "read_event_id": "3c38a6c7-c8ab-4412-a40d-f85065cf05c1",
+        "date_read": "2025-11-12T23:24:22-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "KVKMCPAY2HVLCNYVGDQYD2Y7P6WZ65QY",
         "read_event_id": "7cdc2f35-38f7-477d-a707-5477405c7902",
@@ -1424,16 +1433,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 49,
+    "daysLeftInCurrentChallenge": 48,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
-        "quantity": 2,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookish_9917a306-061f-3bb5-9148-e001a4ec3695.png",
+        "quantity": 1,
+        "title": "Bookish",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
@@ -1450,9 +1459,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookish_f259d25a-2f1c-39de-98e3-53bf2714e52d.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_e8c40f32-b610-30b0-8b5f-dcdf49566089.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
