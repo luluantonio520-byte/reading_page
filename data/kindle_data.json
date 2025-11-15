@@ -895,15 +895,16 @@
     "2025-11-10",
     "2025-11-11",
     "2025-11-12",
-    "2025-11-13"
+    "2025-11-13",
+    "2025-11-14"
   ],
   "current_daily_streak": {
-    "duration": 7,
+    "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-13T08:00:00.000Z",
+    "utcEndTime": "2025-11-14T08:00:00.000Z",
     "start": "2025-11-07T00:00:00.000Z",
-    "end": "2025-11-13T00:00:00.000Z",
-    "ttl": 1763091428
+    "end": "2025-11-14T00:00:00.000Z",
+    "ttl": 1763177446
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -915,10 +916,10 @@
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-13T08:00:00.000Z",
+    "utcEndTime": "2025-11-14T08:00:00.000Z",
     "start": "2025-11-02T00:00:00.000Z",
-    "end": "2025-11-13T00:00:00.000Z",
-    "ttl": 1763091428
+    "end": "2025-11-14T00:00:00.000Z",
+    "ttl": 1763177446
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -947,6 +948,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "A50D0A19664D4243BB79F03D3C0F1EE1",
+        "read_event_id": "54836756-59a0-44ff-a888-d231a7f95ede",
+        "date_read": "2025-11-13T20:48:01-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "F7B4BF32CE3C44188CEA1F3E40B6EA18",
         "read_event_id": "3c38a6c7-c8ab-4412-a40d-f85065cf05c1",
@@ -1433,14 +1442,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 48,
+    "daysLeftInCurrentChallenge": 47,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookish_9917a306-061f-3bb5-9148-e001a4ec3695.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookworm_7c2e8900-ee16-3097-a931-40fd2065deee.png",
         "quantity": 1,
-        "title": "Bookish",
+        "title": "Bookworm",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
