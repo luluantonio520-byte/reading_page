@@ -903,10 +903,16 @@
     "2025-11-25",
     "2025-11-26",
     "2025-11-27",
-    "2025-11-28"
+    "2025-11-28",
+    "2025-12-02"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-02T08:00:00.000Z",
+    "start": "2025-12-02T00:00:00.000Z",
+    "end": "2025-12-02T00:00:00.000Z",
+    "ttl": 1764733269
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -916,12 +922,12 @@
     "end": "2024-11-04T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-28T08:00:00.000Z",
+    "utcEndTime": "2025-12-02T08:00:00.000Z",
     "start": "2025-11-02T00:00:00.000Z",
-    "end": "2025-11-28T00:00:00.000Z",
-    "ttl": 1764646971
+    "end": "2025-12-02T00:00:00.000Z",
+    "ttl": 1764733269
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1453,16 +1459,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 30,
+    "daysLeftInCurrentChallenge": 29,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_a45cb854-f187-33a3-b18f-9b143b7ddeb1.png",
-        "quantity": 1,
-        "title": "Bibliophile",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
+        "quantity": 3,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
