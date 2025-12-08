@@ -908,15 +908,16 @@
     "2025-12-03",
     "2025-12-04",
     "2025-12-05",
-    "2025-12-06"
+    "2025-12-06",
+    "2025-12-07"
   ],
   "current_daily_streak": {
-    "duration": 5,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-06T08:00:00.000Z",
+    "utcEndTime": "2025-12-07T08:00:00.000Z",
     "start": "2025-12-02T00:00:00.000Z",
-    "end": "2025-12-06T00:00:00.000Z",
-    "ttl": 1765079313
+    "end": "2025-12-07T00:00:00.000Z",
+    "ttl": 1765165539
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -926,12 +927,12 @@
     "end": "2024-11-04T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 5,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-06T08:00:00.000Z",
+    "utcEndTime": "2025-12-07T08:00:00.000Z",
     "start": "2025-11-02T00:00:00.000Z",
-    "end": "2025-12-06T00:00:00.000Z",
-    "ttl": 1765079313
+    "end": "2025-12-07T00:00:00.000Z",
+    "ttl": 1765165539
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -960,6 +961,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "6BD695E6FFDD430A971CEFEC66C1ADF9",
+        "read_event_id": "3625c285-587f-4820-8b74-e7098a2da22a",
+        "date_read": "2025-12-07T15:13:01-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "IHY2XRWMS24LZLZWP55H7RGDO7KAIMZ3",
         "read_event_id": "e3fbfff6-166e-4b6f-bac3-f3fb613f8f98",
@@ -1479,7 +1488,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 25,
+    "daysLeftInCurrentChallenge": 24,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
