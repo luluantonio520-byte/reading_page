@@ -935,10 +935,16 @@
     "2026-01-25",
     "2026-01-26",
     "2026-01-27",
-    "2026-01-28"
+    "2026-01-28",
+    "2026-02-01"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-01T08:00:00.000Z",
+    "start": "2026-02-01T00:00:00.000Z",
+    "end": "2026-02-01T00:00:00.000Z",
+    "ttl": 1769996731
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -948,12 +954,12 @@
     "end": "2024-11-04T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-28T08:00:00.000Z",
+    "utcEndTime": "2026-02-01T08:00:00.000Z",
     "start": "2026-01-20T00:00:00.000Z",
-    "end": "2026-01-28T00:00:00.000Z",
-    "ttl": 1769910749
+    "end": "2026-02-01T00:00:00.000Z",
+    "ttl": 1769996731
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1517,14 +1523,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 59,
+    "daysLeftInCurrentChallenge": 58,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_59a1a25a-c831-32be-9dee-cb84602cba40.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_ReadersDozen_49b2b7ea-eab2-4f91-9897-9ef7482f87d9.png",
         "quantity": 1,
-        "title": "Bookish",
+        "title": "Reader's Dozen",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
