@@ -971,7 +971,7 @@
     "utcEndTime": "2026-02-26T08:00:00.000Z",
     "start": "2025-11-02T00:00:00.000Z",
     "end": "2026-02-26T00:00:00.000Z",
-    "ttl": 1772846746
+    "ttl": 1772934190
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1551,7 +1551,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 25,
+    "daysLeftInCurrentChallenge": 24,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 10,
     "achievementsDisplayAttributes": [
