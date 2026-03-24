@@ -953,10 +953,16 @@
     "2026-02-21",
     "2026-02-23",
     "2026-02-24",
-    "2026-02-26"
+    "2026-02-26",
+    "2026-03-23"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-03-23T07:00:00.000Z",
+    "start": "2026-03-23T00:00:00.000Z",
+    "end": "2026-03-23T00:00:00.000Z",
+    "ttl": 1774316519
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -966,7 +972,12 @@
     "end": "2024-11-04T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-03-23T07:00:00.000Z",
+    "start": "2026-03-23T00:00:00.000Z",
+    "end": "2026-03-23T00:00:00.000Z",
+    "ttl": 1774316519
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -975,7 +986,7 @@
     "start": "2022-12-27T00:00:00.000Z",
     "end": "2025-02-10T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2023": {
@@ -1546,16 +1557,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 9,
+    "daysLeftInCurrentChallenge": 8,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 10,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SecretRecipe_518a4f12-619c-40b1-ac03-bbd9cec8ec9f.png",
-        "quantity": 1,
-        "title": "Secret Recipe",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "quantity": 3,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
