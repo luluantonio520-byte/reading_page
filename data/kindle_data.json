@@ -968,15 +968,16 @@
     "2026-04-17",
     "2026-04-18",
     "2026-04-19",
-    "2026-04-20"
+    "2026-04-20",
+    "2026-04-21"
   ],
   "current_daily_streak": {
-    "duration": 8,
+    "duration": 9,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-20T07:00:00.000Z",
+    "utcEndTime": "2026-04-21T07:00:00.000Z",
     "start": "2026-04-13T00:00:00.000Z",
-    "end": "2026-04-20T00:00:00.000Z",
-    "ttl": 1776737028
+    "end": "2026-04-21T00:00:00.000Z",
+    "ttl": 1776823328
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -988,10 +989,10 @@
   "current_weekly_streak": {
     "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-20T07:00:00.000Z",
+    "utcEndTime": "2026-04-21T07:00:00.000Z",
     "start": "2026-03-23T00:00:00.000Z",
-    "end": "2026-04-20T00:00:00.000Z",
-    "ttl": 1776737028
+    "end": "2026-04-21T00:00:00.000Z",
+    "ttl": 1776823328
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1020,6 +1021,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "6AA357697F8642F0A94EBDE898676099",
+        "read_event_id": "67b6b125-6ee7-4d10-9263-963f280d20ad",
+        "date_read": "2026-04-21T04:46:58-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "2D866681F42547A996E9E7BDAB9D4E11",
         "read_event_id": "1506060c-cac4-4829-920b-fd79534caa7c",
@@ -1571,14 +1580,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 71,
+    "daysLeftInCurrentChallenge": 70,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_AprilShowers_24d899b4-000f-30cf-a071-999479530c90.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_226234e6-a274-3f30-899e-73ffd2544be4.png",
         "quantity": 1,
-        "title": "April Showers",
+        "title": "Bookish",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
@@ -1597,9 +1606,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_924d3337-4102-38dc-a68f-59fe9a7b90a3.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_754718fd-17d2-36d8-a297-d41208e9325a.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
