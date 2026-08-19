@@ -984,10 +984,16 @@
     "2026-07-22",
     "2026-07-23",
     "2026-07-24",
-    "2026-07-26"
+    "2026-07-26",
+    "2026-08-18"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-08-18T07:00:00.000Z",
+    "start": "2026-08-18T00:00:00.000Z",
+    "end": "2026-08-18T00:00:00.000Z",
+    "ttl": 1787100832
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -997,7 +1003,12 @@
     "end": "2024-11-04T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-08-18T07:00:00.000Z",
+    "start": "2026-08-18T00:00:00.000Z",
+    "end": "2026-08-18T00:00:00.000Z",
+    "ttl": 1787100832
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1006,7 +1017,7 @@
     "start": "2022-12-27T00:00:00.000Z",
     "end": "2025-02-10T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2023": {
@@ -1592,16 +1603,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 44,
+    "daysLeftInCurrentChallenge": 43,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookish_410baab2-3b9a-36a0-be78-e79abca4e216.png",
-        "quantity": 1,
-        "title": "Bookish",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
+        "quantity": 2,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
