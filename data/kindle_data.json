@@ -985,15 +985,16 @@
     "2026-07-23",
     "2026-07-24",
     "2026-07-26",
-    "2026-08-18"
+    "2026-08-18",
+    "2026-08-19"
   ],
   "current_daily_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-18T07:00:00.000Z",
+    "utcEndTime": "2026-08-19T07:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-08-18T00:00:00.000Z",
-    "ttl": 1787100832
+    "end": "2026-08-19T00:00:00.000Z",
+    "ttl": 1787187194
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -1005,10 +1006,10 @@
   "current_weekly_streak": {
     "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-18T07:00:00.000Z",
+    "utcEndTime": "2026-08-19T07:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-08-18T00:00:00.000Z",
-    "ttl": 1787100832
+    "end": "2026-08-19T00:00:00.000Z",
+    "ttl": 1787187194
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1037,6 +1038,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "44AE08BA0B4C4109BE43617C5B257D6E",
+        "read_event_id": "008cdbf3-2dc2-4563-b1d2-312789b0c722",
+        "date_read": "2026-08-19T05:54:58-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "06C10721EF624DFAA08B1E52F5329C7F",
         "read_event_id": "15e448c2-e1a7-4079-a1af-dbc70ab5afc1",
@@ -1603,16 +1612,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 43,
+    "daysLeftInCurrentChallenge": 42,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
-        "quantity": 2,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookworm_d09fc63b-3585-3bc5-ab49-b12bc276ab4e.png",
+        "quantity": 1,
+        "title": "Bookworm",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
