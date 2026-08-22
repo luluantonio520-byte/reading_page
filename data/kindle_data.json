@@ -986,15 +986,16 @@
     "2026-07-24",
     "2026-07-26",
     "2026-08-18",
-    "2026-08-19"
+    "2026-08-19",
+    "2026-08-20"
   ],
   "current_daily_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-19T07:00:00.000Z",
+    "utcEndTime": "2026-08-20T07:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-08-19T00:00:00.000Z",
-    "ttl": 1787273826
+    "end": "2026-08-20T00:00:00.000Z",
+    "ttl": 1787360010
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -1006,10 +1007,10 @@
   "current_weekly_streak": {
     "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-19T07:00:00.000Z",
+    "utcEndTime": "2026-08-20T07:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-08-19T00:00:00.000Z",
-    "ttl": 1787273826
+    "end": "2026-08-20T00:00:00.000Z",
+    "ttl": 1787360010
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1612,7 +1613,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 41,
+    "daysLeftInCurrentChallenge": 40,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
