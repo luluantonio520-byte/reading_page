@@ -992,15 +992,16 @@
     "2026-08-22",
     "2026-08-24",
     "2026-08-25",
-    "2026-08-26"
+    "2026-08-26",
+    "2026-08-27"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-26T07:00:00.000Z",
+    "utcEndTime": "2026-08-27T07:00:00.000Z",
     "start": "2026-08-24T00:00:00.000Z",
-    "end": "2026-08-26T00:00:00.000Z",
-    "ttl": 1787813014
+    "end": "2026-08-27T00:00:00.000Z",
+    "ttl": 1787906026
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -1012,10 +1013,10 @@
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-26T07:00:00.000Z",
+    "utcEndTime": "2026-08-27T07:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-08-26T00:00:00.000Z",
-    "ttl": 1787813014
+    "end": "2026-08-27T00:00:00.000Z",
+    "ttl": 1787906026
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1626,14 +1627,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 35,
+    "daysLeftInCurrentChallenge": 33,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 4,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bibliophile_3df493f0-9266-3ce9-ad61-a7fc9590269b.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_BronzeReader_8ed1c870-4c09-3c49-96ee-ed466578daf6.png",
         "quantity": 1,
-        "title": "Bibliophile",
+        "title": "Bronze Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
