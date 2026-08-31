@@ -994,15 +994,16 @@
     "2026-08-25",
     "2026-08-26",
     "2026-08-27",
-    "2026-08-29"
+    "2026-08-29",
+    "2026-08-30"
   ],
   "current_daily_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-29T07:00:00.000Z",
+    "utcEndTime": "2026-08-30T07:00:00.000Z",
     "start": "2026-08-29T00:00:00.000Z",
-    "end": "2026-08-29T00:00:00.000Z",
-    "ttl": 1788059121
+    "end": "2026-08-30T00:00:00.000Z",
+    "ttl": 1788145137
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -1012,12 +1013,12 @@
     "end": "2024-11-04T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-29T07:00:00.000Z",
+    "utcEndTime": "2026-08-30T07:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-08-29T00:00:00.000Z",
-    "ttl": 1788059121
+    "end": "2026-08-30T00:00:00.000Z",
+    "ttl": 1788145137
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1046,6 +1047,38 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "34B1847F81874CB88F5D3BA9A2E3DC40",
+        "read_event_id": "bcd8112b-2ec6-40bd-8b6c-2dc137e27c30",
+        "date_read": "2026-08-30T04:14:47-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "BE4141D473134AC5A2C02B898AA79FFD",
+        "read_event_id": "91c71ad9-fd5e-455b-a6d1-2840114acf55",
+        "date_read": "2026-08-30T04:14:17-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "098CEEC29A414FDF8A7FEE14CC0CAA00",
+        "read_event_id": "bd4600a6-62c6-4eb9-804e-9285bdfd6b9a",
+        "date_read": "2026-08-30T04:13:27-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "764588C0427D42B89E68A781E5460239",
+        "read_event_id": "6e1b330d-1f5b-49ba-9cfd-20cda9e6d9ea",
+        "date_read": "2026-08-30T04:03:12-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "F95EA1D412544801BB8F195C6714364B",
         "read_event_id": "f3794437-a66e-4a97-be55-16160262c7ab",
@@ -1628,14 +1661,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 32,
+    "daysLeftInCurrentChallenge": 31,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 5,
+    "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_BronzeReader_8ed1c870-4c09-3c49-96ee-ed466578daf6.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_CatTales_c88260c5-875c-35aa-ac43-c2dcda357bb3.png",
         "quantity": 1,
-        "title": "Bronze Reader",
+        "title": "Cat Tales",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
