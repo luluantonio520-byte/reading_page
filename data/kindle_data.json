@@ -996,15 +996,16 @@
     "2026-08-27",
     "2026-08-29",
     "2026-08-30",
-    "2026-08-31"
+    "2026-08-31",
+    "2026-09-01"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-31T07:00:00.000Z",
+    "utcEndTime": "2026-09-01T07:00:00.000Z",
     "start": "2026-08-29T00:00:00.000Z",
-    "end": "2026-08-31T00:00:00.000Z",
-    "ttl": 1788231999
+    "end": "2026-09-01T00:00:00.000Z",
+    "ttl": 1788315975
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -1016,10 +1017,10 @@
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-31T07:00:00.000Z",
+    "utcEndTime": "2026-09-01T07:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-08-31T00:00:00.000Z",
-    "ttl": 1788231999
+    "end": "2026-09-01T00:00:00.000Z",
+    "ttl": 1788315975
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1048,6 +1049,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "9DACF2EF782542F3BE42EC9BD8AE9E63",
+        "read_event_id": "272eb778-b8e3-4c2c-9449-6fb4c916736a",
+        "date_read": "2026-09-01T08:03:49-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "34B1847F81874CB88F5D3BA9A2E3DC40",
         "read_event_id": "bcd8112b-2ec6-40bd-8b6c-2dc137e27c30",
@@ -1662,16 +1671,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 30,
+    "daysLeftInCurrentChallenge": 29,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_CatTales_c88260c5-875c-35aa-ac43-c2dcda357bb3.png",
-        "quantity": 1,
-        "title": "Cat Tales",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
+        "quantity": 3,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
