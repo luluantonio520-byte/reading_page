@@ -998,10 +998,21 @@
     "2026-08-30",
     "2026-08-31",
     "2026-09-01",
-    "2026-09-12"
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-07",
+    "2026-09-11",
+    "2026-09-12",
+    "2026-09-17",
+    "2026-09-18"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-09-18T07:00:00.000Z",
+    "start": "2026-09-17T00:00:00.000Z",
+    "end": "2026-09-18T00:00:00.000Z",
+    "ttl": 1789785787
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -1011,12 +1022,12 @@
     "end": "2024-11-04T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-09-12T07:00:00.000Z",
+    "utcEndTime": "2026-09-18T07:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-09-12T00:00:00.000Z",
-    "ttl": 1789699468
+    "end": "2026-09-18T00:00:00.000Z",
+    "ttl": 1789785787
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1025,7 +1036,7 @@
     "start": "2022-12-27T00:00:00.000Z",
     "end": "2025-02-10T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "at_risk",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2023": {
@@ -1045,6 +1056,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "184F20FF55544FE7AAACF22247081DE5",
+        "read_event_id": "7c1084fa-7d57-46d6-bdc1-42b7d0552bf9",
+        "date_read": "2026-09-17T22:50:53-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "9DACF2EF782542F3BE42EC9BD8AE9E63",
         "read_event_id": "272eb778-b8e3-4c2c-9449-6fb4c916736a",
@@ -1667,7 +1686,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 13,
+    "daysLeftInCurrentChallenge": 12,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
