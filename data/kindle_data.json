@@ -1014,15 +1014,16 @@
     "2026-09-29",
     "2026-09-30",
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "current_daily_streak": {
-    "duration": 6,
+    "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-02T07:00:00.000Z",
+    "utcEndTime": "2026-10-03T07:00:00.000Z",
     "start": "2026-09-27T00:00:00.000Z",
-    "end": "2026-10-02T00:00:00.000Z",
-    "ttl": 1790997763
+    "end": "2026-10-03T00:00:00.000Z",
+    "ttl": 1791085798
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -1034,10 +1035,10 @@
   "current_weekly_streak": {
     "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-02T07:00:00.000Z",
+    "utcEndTime": "2026-10-03T07:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-10-02T00:00:00.000Z",
-    "ttl": 1790997763
+    "end": "2026-10-03T00:00:00.000Z",
+    "ttl": 1791085798
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1066,6 +1067,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "02F8ED3D140143E5ACE9511564F00EC1",
+        "read_event_id": "4718e3ab-1dac-4839-8a6f-1fe15e357a6e",
+        "date_read": "2026-10-02T23:04:45-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "4E7EDC7AFFD142D5BE379119A11DA9CF",
         "read_event_id": "d2f08c6d-027d-43cf-b431-22c564ab2377",
@@ -1728,14 +1737,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 90,
+    "daysLeftInCurrentChallenge": 89,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_HeadStart_cd65787c-fd83-3d0d-9dda-99be74a0da68.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_PerfectWeek_d5e1abbd-6060-34fd-807f-17ff13807e8a.png",
         "quantity": 1,
-        "title": "Head Start",
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
@@ -1754,9 +1763,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookish_4876ad16-8a20-36c5-8942-0e04d94b1361.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bibliophile_594da21e-a9a0-3027-8cb1-b02b0a0ee2e6.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
