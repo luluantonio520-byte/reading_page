@@ -1026,15 +1026,18 @@
     "2026-10-17",
     "2026-10-19",
     "2026-10-23",
-    "2026-10-26"
+    "2026-10-24",
+    "2026-10-25",
+    "2026-10-26",
+    "2026-10-27"
   ],
   "current_daily_streak": {
-    "duration": 1,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-26T07:00:00.000Z",
-    "start": "2026-10-26T00:00:00.000Z",
-    "end": "2026-10-26T00:00:00.000Z",
-    "ttl": 1793158542
+    "utcEndTime": "2026-10-27T07:00:00.000Z",
+    "start": "2026-10-23T00:00:00.000Z",
+    "end": "2026-10-27T00:00:00.000Z",
+    "ttl": 1793246173
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -1046,10 +1049,10 @@
   "current_weekly_streak": {
     "duration": 11,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-10-26T07:00:00.000Z",
+    "utcEndTime": "2026-10-27T07:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-10-26T00:00:00.000Z",
-    "ttl": 1793158542
+    "end": "2026-10-27T00:00:00.000Z",
+    "ttl": 1793246173
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1748,16 +1751,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 65,
+    "daysLeftInCurrentChallenge": 64,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_PerfectWeek_d5e1abbd-6060-34fd-807f-17ff13807e8a.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_BronzeReader_abcc96d3-fe9e-36d9-8eda-b766f940899e.png",
         "quantity": 1,
-        "title": "Perfect Week",
+        "title": "Bronze Reader",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
