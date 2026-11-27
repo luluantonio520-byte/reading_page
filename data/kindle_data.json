@@ -1045,15 +1045,16 @@
     "2026-11-17",
     "2026-11-19",
     "2026-11-20",
-    "2026-11-25"
+    "2026-11-25",
+    "2026-11-26"
   ],
   "current_daily_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-11-25T08:00:00.000Z",
+    "utcEndTime": "2026-11-26T08:00:00.000Z",
     "start": "2026-11-25T00:00:00.000Z",
-    "end": "2026-11-25T00:00:00.000Z",
-    "ttl": 1795674349
+    "end": "2026-11-26T00:00:00.000Z",
+    "ttl": 1795760135
   },
   "longest_daily_streak": {
     "duration": 679,
@@ -1065,10 +1066,10 @@
   "current_weekly_streak": {
     "duration": 15,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-11-25T08:00:00.000Z",
+    "utcEndTime": "2026-11-26T08:00:00.000Z",
     "start": "2026-08-18T00:00:00.000Z",
-    "end": "2026-11-25T00:00:00.000Z",
-    "ttl": 1795674349
+    "end": "2026-11-26T00:00:00.000Z",
+    "ttl": 1795760135
   },
   "longest_weekly_streak": {
     "duration": 112,
@@ -1097,6 +1098,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "468C20BF59BA41DDB5AEB93822790F2D",
+        "read_event_id": "333e387b-8701-4fa0-b165-59cca247d6f6",
+        "date_read": "2026-11-26T21:02:56-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "E77956FF851A4F4B9FEEAAC4B2A09395",
         "read_event_id": "8e40c34c-20f0-4252-9cea-e9c1f94f911c",
@@ -1775,16 +1784,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 36,
+    "daysLeftInCurrentChallenge": 35,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 7,
+    "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_HeadStart_cd65787c-fd83-3d0d-9dda-99be74a0da68.png",
-        "quantity": 2,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bibliophile_d161990b-8b2f-35d9-bc70-db6ec211dd51.png",
+        "quantity": 1,
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
@@ -1801,11 +1810,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bibliophile_594da21e-a9a0-3027-8cb1-b02b0a0ee2e6.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_PerfectMonth_e5821412-1fd6-358c-8689-16cc0f2d6682.png",
         "quantity": 0,
-        "title": "Bibliophile",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
